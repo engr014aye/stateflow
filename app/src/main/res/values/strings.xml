@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SlateFlow</string>
+    <string name="tagline">Offline Notes &amp; Tasks</string>
+    <string name="tab_notes">Flow Notes</string>
+    <string name="tab_tasks">Action Slate</string>
+    <string name="search_placeholder">Search notes or tasks…</string>
+    <string name="no_notes_title">No notes yet</string>
+    <string name="no_notes_subtitle">Tap the plus button to record your first thought in liquid flow.</string>
+    <string name="no_tasks_title">Slate is clear</string>
+    <string name="no_tasks_subtitle">All actions completed or none scheduled. Tap plus to add a task.</string>
+    <string name="privacy_dialog_title">Offline Privacy Guarantee</string>
+    <string name="privacy_dialog_content" formatted="false">SlateFlow stores 100% of your notes and tasks locally on your device. No data ever leaves your phone.\n\n• Zero internet permissions\n• Zero analytics or third-party trackers\n• Zero external cloud storage\n• 100% private SQLite storage</string>
+    <string name="btn_understood">Understood</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="undo">Undo</string>
+</resources>

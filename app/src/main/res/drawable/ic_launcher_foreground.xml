@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="1.0"
+        android:scaleY="1.0">
+        <!-- Minimalist Note Slate Shape -->
+        <path
+            android:pathData="M38,30 L70,30 A6,6 0 0,1 76,36 L76,72 A6,6 0 0,1 70,78 L38,78 A6,6 0 0,1 32,72 L32,36 A6,6 0 0,1 38,30 Z"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="3.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#151E34"
+            android:fillAlpha="0.75" />
+
+        <!-- Slate Note Text Lines -->
+        <path
+            android:pathData="M40,42 L56,42"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="3"
+            android:strokeLineCap="round" />
+
+        <path
+            android:pathData="M40,50 L64,50"
+            android:strokeColor="#FFFFFF"
+            android:strokeAlpha="0.8"
+            android:strokeWidth="3"
+            android:strokeLineCap="round" />
+
+        <!-- Fluid Cyan Flow Wave -->
+        <path
+            android:pathData="M24,68 C36,54 48,76 64,62 C74,52 82,58 86,64"
+            android:strokeColor="#00F5D4"
+            android:strokeWidth="4"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+
+        <!-- Flow Dynamic Accent Dot -->
+        <path
+            android:pathData="M66,38 A3,3 0 1,0 66.1,38"
+            android:strokeColor="#00F5D4"
+            android:strokeWidth="3"
+            android:strokeLineCap="round"
+            android:fillColor="#00F5D4" />
+    </group>
+</vector>
